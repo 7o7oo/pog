@@ -2,4 +2,4 @@ const funckyLocomotion = (word) =>{
     return '     '+word
 }
  
-module.exports = funckyLocomotion
+export default funckyLocomotion
